@@ -29,7 +29,7 @@ News App created in Flutter using News API for fetching realtime data and Fireba
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/theankurkedia/newsbuzz.git
+$ git clone https://github.com/briltec/newsbuzz.git
 $ cd newsbuzz/
 ```
 
